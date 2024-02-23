@@ -1,0 +1,3 @@
+role,NetID,LastName,FirstName
+boss,9054553118,Roloff,Harrison
+employee,9083663204,Jake,Christensen
